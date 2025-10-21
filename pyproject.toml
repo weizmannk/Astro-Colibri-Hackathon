@@ -1,0 +1,10 @@
+[project]
+name = "astro-colibri-hackathon"
+version = "0.1.0"
+description = "NMMA implementation within AstroColibri"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dustmaps>=1.0.14",
+    "nmma>=0.2.3",
+]
